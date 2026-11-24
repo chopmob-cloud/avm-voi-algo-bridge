@@ -1,4 +1,7 @@
 # VOI--ALGO
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
+
 VOI to Algorand Mainnet Bridge
 
 This repository contains a trust-minimized bridge that allows
